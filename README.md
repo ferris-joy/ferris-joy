@@ -7,7 +7,7 @@
 *In safe code we trust. In unsafe blocks, we audit.*
 
 [![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)](https://www.rust-lang.org/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:golden.peach.ts@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wb.ts416@gmail.com)
 [![Crates.io](https://img.shields.io/badge/crates.io-FC8D62?style=for-the-badge&logo=rust&logoColor=white)](https://crates.io/users/your-handle)
 
 </div>
@@ -162,7 +162,5 @@ fn main() {
     println!("Thanks for stopping by. Now go write some Rust. 🦀");
 }
 ```
-
-![Profile Views](https://komarev.com/ghpvc/?username=sn-chr&style=flat-square&color=orange)
 
 </div>
